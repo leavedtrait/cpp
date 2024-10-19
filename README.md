@@ -22,16 +22,16 @@ create a Build Directory
 ```bash
 mkdir build
 cd build
-'''
+```
 run CMake
 ```bash
 cmake ..
-'''
+```
 build the project 
-'''bash
+```bash
 cmake --buiild .
-'''
+```
 run the project 
-'''bash 
+```bash 
 ./main
-'''
+```
